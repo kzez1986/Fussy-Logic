@@ -1,0 +1,17 @@
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik_rozmyty.Form1.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik_rozmyty.Properties.Resources.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik rozmyty.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Sterownik rozmyty\Sterownik rozmyty\bin\Debug\Sterownik rozmyty.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Sterownik rozmyty\Sterownik rozmyty\bin\Debug\Sterownik rozmyty.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik rozmyty.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik rozmyty.pdb
+C:\Users\kzez1986\Desktop\Sterownik rozmyty\Sterownik rozmyty\bin\Debug\Sterownik rozmyty.exe
+C:\Users\kzez1986\Desktop\Sterownik rozmyty\Sterownik rozmyty\bin\Debug\Sterownik rozmyty.pdb
+C:\Users\kzez1986\Desktop\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik rozmyty.csprojAssemblyReference.cache
+C:\Users\kzez1986\Desktop\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik_rozmyty.Form1.resources
+C:\Users\kzez1986\Desktop\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik_rozmyty.Properties.Resources.resources
+C:\Users\kzez1986\Desktop\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik rozmyty.csproj.GenerateResource.cache
+C:\Users\kzez1986\Desktop\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik rozmyty.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Desktop\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik rozmyty.exe
+C:\Users\kzez1986\Desktop\Sterownik rozmyty\Sterownik rozmyty\obj\Debug\Sterownik rozmyty.pdb
